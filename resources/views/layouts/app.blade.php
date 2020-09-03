@@ -37,7 +37,7 @@
     @yield('content')
 
 
-    <div class="footer-clean">
+    <div class="footer-dark">
     <footer>
         <div class="container">
             <div class="row justify-content-center">
@@ -66,7 +66,7 @@
                     </ul>
                 </div>
                 <div class="col-lg-3 item social"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a>
-                    <p class="copyright">Company Name © 2017</p>
+                    <p class="footer-dark copyright">Company Name © 2017</p>
                 </div>
             </div>
         </div>
