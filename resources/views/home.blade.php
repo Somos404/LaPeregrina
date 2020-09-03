@@ -156,7 +156,7 @@ común tipo “A” a todo el país <br>en fardos de 10 unidades por 1 kg.</p>
         </div>
     <!-- Start: Lighbox Gallery -->
     <div class="container" style="padding-right: 0px;padding-left: 0px;">
-    <div class="row photos" style="margin-left: 0px;margin-right: 0px;width: 1210px;">
+        <div class="row photos" style="margin-left: 0px;margin-right: 0px;width: 1210px;">
         <div class="col-sm-6 col-md-4 col-lg-3 offset-xl-1 item"><a data-lightbox="photos" href="/assets/img/01.jpg"><img class="img-fluid" src="/assets/img/01.jpg" /></a></div>
         <div class="col-sm-6 col-md-4 col-lg-3 item"><a data-lightbox="photos" href="/assets/img/01.jpg"><img class="img-fluid" src="/assets/img/01.jpg" /></a></div>
         <div class="col-sm-6 col-md-4 col-lg-3 item"><a data-lightbox="photos" href="/assets/img/01.jpg"><img class="img-fluid" src="/assets/img/01.jpg" /></a></div>
@@ -164,9 +164,8 @@ común tipo “A” a todo el país <br>en fardos de 10 unidades por 1 kg.</p>
         <div class="col-sm-6 col-md-4 col-lg-3 item"><a data-lightbox="photos" href="/assets/img/01.jpg"><img class="img-fluid" src="/assets/img/01.jpg" /></a></div>
         <div class="col-sm-6 col-md-4 col-lg-3 item"><a data-lightbox="photos" href="/assets/img/01.jpg"><img class="img-fluid" src="/assets/img/01.jpg" /></a></div>
     </div>
-    <!-- End: Lighbox Gallery -->
+      <!-- End: Lighbox Gallery -->
 </div>
     </div>
-  
- 
+      
  @endsection
