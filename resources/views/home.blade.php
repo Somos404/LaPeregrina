@@ -106,6 +106,55 @@ común tipo “A” a todo el país <br>en fardos de 10 unidades por 1 kg.</p>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
     <script src="/assets/js/script.min.js?h=22fc2aed152297522259c2eaabe4b4df"></script>
     </div>
+    <!-- End: Bootstrap 4 - Full Video Background v2 -->
+    <!-- Start: 1 Row 1 Column -->
+    <div data-aos="fade-up" style="margin-top: 150px;margin-bottom: 30px;">
+        <div class="container">
+            <div class="row"><div class="col-md-12">
+<h2 class="Titulo3">NUESTRO PRODUCTO</h2>
+<p class="Subtitulo1">Se recomienda nuestra azúcar común tipo "A", de cristales finos y corredizos<br>provenientes de ingenios tucumanos, para la fabricación de dulces<br>y mermeladas, panificación y repostería, caramelos, gaseosas, etc</p>
+</div></div>
+        </div>
+    </div>
+    <!-- End: 1 Row 1 Column -->
+    <!-- Start: 1 Row 3 Columns -->
+    <div data-aos="fade-up" style="padding: 70px;padding-top: 30px;padding-left: 0px;padding-right: 0px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4" style="padding-top: 15px;padding-bottom: 15px;"><img src="/assets/img/01.jpg" style="width: 320px;height: 320px;border-style: none;"></div>
+                <div class="col-md-4" style="padding-top: 15px;padding-bottom: 15px;"><img src="/assets/img/02.jpg" style="width: 320px;height: 320px;border-style: none;"></div>
+                <div class="col-md-4" style="padding-top: 15px;padding-bottom: 15px;"><img src="/assets/img/03.jpg" style="width: 320px;height: 320px;border-style: none;"></div>
+            </div>
+        </div>
+    </div>
+    <!-- End: 1 Row 3 Columns -->
+    <!-- Start: 1 Row 1 Column -->
+    <div style="padding: 70px;padding-left: 0px;padding-right: 0px;padding-top: 30px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12"><img data-aos="fade-left" src="/assets/img/Ilusinfo.png" style="width: 1090px;padding-left: 0px;"></div>
+            </div>
+        </div>
+    </div>
+    <!-- End: 1 Row 1 Column -->
+    <!-- Start: 1 Row 1 Column -->
+    <div data-aos="fade-up" style="margin-top: 0px;margin-bottom: 30px;">
+        <div class="container">
+            <div class="row"><div class="col-md-12">
+<h2 class="Titulo3">BENEFICIOS</h2>
+<p class="Subtitulo1">de la azúcar de caña</p>
+</div></div>
+        </div>
+    </div>
+    <!-- End: 1 Row 1 Column -->
+    <!-- Start: 1 Row 1 Column -->
+    <div data-aos="zoom-in" style="padding: 70px;padding-left: 0px;padding-right: 0px;padding-top: 30px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12"><img data-aos="zoom-in" src="/assets/img/Bowlazucar2.jpg" style="width: 1090px;padding-left: 0px;"></div>
+            </div>
+        </div>
+    </div>
   
 
  
