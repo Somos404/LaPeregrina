@@ -9,8 +9,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,700,700i,800,800i,900,900i">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Reenie+Beanie">
     <link rel="stylesheet" href="/assets/css/styles.min.css">
-    <link rel="stylesheet" href="/assets/css/blog-home.css">
-</head>
+    </head>
 
 <body>
     
@@ -38,7 +37,7 @@
     @yield('content')
 
 
-    <div class="footer-clean">
+    <div class="footer-dark">
     <footer>
         <div class="container">
             <div class="row justify-content-center">
@@ -67,7 +66,7 @@
                     </ul>
                 </div>
                 <div class="col-lg-3 item social"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a>
-                    <p class="copyright">Company Name © 2017</p>
+                    <p class="footer-dark copyright">Company Name © 2017</p>
                 </div>
             </div>
         </div>
