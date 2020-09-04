@@ -163,9 +163,23 @@ común tipo “A” a todo el país <br>en fardos de 10 unidades por 1 kg.</p>
         <div class="col-sm-6 col-md-4 col-lg-3 offset-xl-1 item"><a data-lightbox="photos" href="/assets/img/01.jpg"><img class="img-fluid" src="/assets/img/01.jpg" /></a></div>
         <div class="col-sm-6 col-md-4 col-lg-3 item"><a data-lightbox="photos" href="/assets/img/01.jpg"><img class="img-fluid" src="/assets/img/01.jpg" /></a></div>
         <div class="col-sm-6 col-md-4 col-lg-3 item"><a data-lightbox="photos" href="/assets/img/01.jpg"><img class="img-fluid" src="/assets/img/01.jpg" /></a></div>
+     </div>
+          <!-- End: Lighbox Gallery -->
+<!-- Start: 1 Row 1 Column -->
+<div data-aos="fade-up" style="margin-top: 0px;margin-bottom: 30px;">
+        <div class="container">
+            <div class="row"><div class="col-md-12">
+<h2 class="Titulo3">BLOG</h2>
+<p class="Subtitulo1">Compartimos nuestro toque de dulzura a cada momento</p>
+</div></div>
+        </div>
     </div>
-      <!-- End: Lighbox Gallery -->
+    <!-- End: 1 Row 1 Column -->
+    
+
+
+
 </div>
     </div>
-      
+    
  @endsection
