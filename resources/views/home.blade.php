@@ -92,7 +92,7 @@ común tipo “A” a todo el país <br>en fardos de 10 unidades por 1 kg.</p>
     <!-- Start: Bootstrap 4 - Full Video Background v2 --><div class="video-background-holder">
   <div class="video-background-overlay"></div>
   <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-        <source src="https://storage.googleapis.com/coverr-main/mp4/Mt_Baker.mp4" type="video/mp4">
+        <source src="/assets/img/Faja_blog.mp4" type="video/mp4">
     </video>
   <div class="video-background-content container h-100">
     <div class="d-flex h-100 text-center align-items-center">
@@ -167,5 +167,6 @@ común tipo “A” a todo el país <br>en fardos de 10 unidades por 1 kg.</p>
       <!-- End: Lighbox Gallery -->
 </div>
     </div>
-      
+    <button type="button" class="btn btn-primary btn-lg">VER MÁS</button>
+
  @endsection
