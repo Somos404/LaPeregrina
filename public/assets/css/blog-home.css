@@ -1,0 +1,45 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/templates/blog-home)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+/*!
+widget de ultimas novedades 
+ */
+
+ .container-card-header{
+  background-color: #1778be;
+ }
+.card-header{
+  background-color: #1778be;
+  color: white;
+  font-size: 17px;
+  font-weight: 700;
+  
+  
+}
+
+
+.card-header h5{
+  margin-left: 1rem;
+}
+
+.media img{
+  width:30%;
+  margin-left: 1rem;
+}
+.media-body h5{
+  font-weight: 700;
+  font-size: 18px;
+ 
+}
+
+.-mr-3{
+  margin-right: -4rem;
+}
+
+

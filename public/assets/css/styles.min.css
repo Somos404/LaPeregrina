@@ -72,6 +72,19 @@
     }
   }
   
+  .btn-group-lg > .btn, .btn-lg {
+    padding: .5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: inherit;
+    margin-bottom: 5rem;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #144f8f;
+  border-color: #144f8f;
+}
   .header .navbar {
     background-color: transparent !important;
   }
@@ -95,6 +108,7 @@
     color: #274394;
     text-align: center;
   }
+
   
   .lead {
     font-size: 1.25rem;
