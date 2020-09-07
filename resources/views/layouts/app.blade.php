@@ -42,17 +42,19 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-sm-4 col-md-3 item">
-                    <h3>Logo de Comercial Hrma</h3></div>
+                    <img src="/assets/img/Erma.png" style="width: 250px;">
+                    </div>
                 <div class="col-sm-4 col-md-3 item">
-                    <h3>Logo La Peregrina</h3>
-                   
-                </div>
-                <div class="col-sm-4 col-md-3 item">
-                    <h3>Contactos</h3>
-                   
-                </div>
+                <img src="/assets/img/Peregrina_blanco.jpg" style="width: 250px;"> 
+                    </div>
+                <div class="col-sm-4 col-md-3 item Info">
+                    <p>Tel: +54 0381 422 3118</p>
+                    <p>Contactos</p>
+                    <p>Contactos</p>
+                    <p>San Martín 920 - Piso 1 Oficina A (4.000) <br>San Miguel de Tucumán - Tucumán - Argentina.</p>                   
+                    </div>
                 <div class="col-lg-3 item social">
-                <h3>Logo Tucuman</h3>
+                <img src="/assets/img/Tucuman.jpg" style="width: 175px;"> 
                     <a href="#"><i class="icon ion-social-facebook"></i></a>
                     <a href="#"><i class="icon ion-social-instagram"></i></a>
                 

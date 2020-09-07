@@ -387,7 +387,8 @@
   padding: 50px 0;
   color: #f0f9ff;
   /*background-color: #123962;*/
-  background-color: #17224c;
+  background-image: url("/assets/img/Footer.jpg");
+  background-size: cover;
 }
 
 body {
@@ -477,3 +478,13 @@ body {
     padding-top: 15px;
   }
   
+  .Info {
+    text-align: left;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-top: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
