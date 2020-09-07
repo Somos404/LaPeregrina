@@ -181,10 +181,6 @@ común tipo “A” a todo el país <br>en fardos de 10 unidades por 1 kg.</p>
 
 </div>
     </div>
-<<<<<<< HEAD
-    
-=======
     <button type="button" class="btn btn-primary btn-lg">VER MÁS</button>
 
->>>>>>> 1645dd4a8ce026a947c6cfbcbd220d9e305e94f7
  @endsection
